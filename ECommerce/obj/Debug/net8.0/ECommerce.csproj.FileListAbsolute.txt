@@ -147,3 +147,4 @@ C:\Users\ACER\NewRepo\ConsoleApp1\ECommerce\ECommerce\obj\Debug\net8.0\refint\EC
 C:\Users\ACER\NewRepo\ConsoleApp1\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.pdb
 C:\Users\ACER\NewRepo\ConsoleApp1\ECommerce\ECommerce\obj\Debug\net8.0\ECommerce.genruntimeconfig.cache
 C:\Users\ACER\NewRepo\ConsoleApp1\ECommerce\ECommerce\obj\Debug\net8.0\ref\ECommerce.dll
+C:\Users\ACER\NewRepo\ConsoleApp1\ECommerce\ECommerce\bin\Debug\net8.0\BCrypt.Net-Next.dll
