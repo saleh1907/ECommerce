@@ -1,9 +1,10 @@
 ﻿using ECommerce.Contexts;
 using ECommerce.Dtos.Product;
 using ECommerce.Models;
+using ECommerce.Services.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
-namespace ECommerce.Services.Interfaces;
+namespace ECommerce.Services;
 
 public class ProductService:IProductService
 {
@@ -43,7 +44,7 @@ public class ProductService:IProductService
             .FirstOrDefaultAsync(p => p.Id == id);
 
         if (product is null)
-            throw new Exception("Mehsul tapilmadi.");
+            throw new KeyNotFoundException("Mehsul tapilmadi.");
 
         return new ProductResponseDto
         {
@@ -60,13 +61,13 @@ public class ProductService:IProductService
     public async Task<string> CreateAsync(CreateProductDto dto)
     {
         if (dto.CategoryIds is null || !dto.CategoryIds.Any())
-            throw new Exception("Mehsul en azi bir kateqoriyaya aid olmalidir.");
+            throw new ArgumentException("Mehsul en azi bir kateqoriyaya aid olmalidir.");
 
         var categoriesCount = await _context.Categories
             .CountAsync(c => dto.CategoryIds.Contains(c.Id));
 
         if (categoriesCount != dto.CategoryIds.Distinct().Count())
-            throw new Exception("Gonderilen kateqoriyalardan biri ve ya bir necəsi movcud deyil.");
+            throw new ArgumentException("Gonderilen kateqoriyalardan biri ve ya bir necesi movcud deyil.");
 
         var product = new Product
         {
@@ -100,16 +101,19 @@ public class ProductService:IProductService
             .FirstOrDefaultAsync(p => p.Id == id);
 
         if (product is null)
-            throw new Exception("Mehsul tapilmadi.");
+            throw new KeyNotFoundException("Mehsul tapilmadi.");
 
         if (dto.CategoryIds is null || !dto.CategoryIds.Any())
-            throw new Exception("Mehsul en azi bir kateqoriyaya aid olmalidir.");
+            throw new ArgumentException("Mehsul en azi bir kateqoriyaya aid olmalidir.");
+
+
 
         var categoriesCount = await _context.Categories
             .CountAsync(c => dto.CategoryIds.Contains(c.Id));
 
         if (categoriesCount != dto.CategoryIds.Distinct().Count())
-            throw new Exception("Gonderilen kateqoriyalardan biri ve ya bir necesi movcud deyil.");
+            throw new ArgumentException("Gonderilen kateqoriyalardan biri ve ya bir necesi movcud deyil.");
+
 
         product.Name = dto.Name;
         product.Description = dto.Description;
@@ -143,7 +147,7 @@ public class ProductService:IProductService
             .FirstOrDefaultAsync(p => p.Id == id);
 
         if (product is null)
-            throw new Exception("Mehsul tapilmadi.");
+            throw new KeyNotFoundException("Mehsul tapilmadi.");
 
         _context.ProductImages.RemoveRange(product.Images);
         _context.ProductCategories.RemoveRange(product.ProductCategories);

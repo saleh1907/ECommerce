@@ -27,7 +27,8 @@ public class AuthService:IAuthService
             .FirstOrDefaultAsync(x => x.Email.ToLower() == dto.Email.ToLower());
 
         if (existUser is not null)
-            throw new Exception("Bu email ile artıq istifadeci var.");
+            throw new ArgumentException("Bu email ile artiq istifadeci movcuddur.");
+
 
         var user = new AppUser
         {
@@ -49,13 +50,12 @@ public class AuthService:IAuthService
             .FirstOrDefaultAsync(x => x.Email.ToLower() == dto.Email.ToLower());
 
         if (user is null)
-            throw new Exception("Email ve ya sifre yanlisdir.");
+            throw new ArgumentException("Email ve ya sifre yanlisdir.");
 
         var isPasswordCorrect = BCrypt.Net.BCrypt.Verify(dto.Password, user.PasswordHash);
 
         if (!isPasswordCorrect)
-            throw new Exception("Email ve ya sifre yanlisdir.");
-
+            throw new ArgumentException("Email ve ya sifre yanlisdir.");
         var token = GenerateJwtToken(user);
 
         return new AuthResponseDto

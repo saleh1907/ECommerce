@@ -3,24 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\interfaces\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\interfaces\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\seed\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\seed\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\globalexceptionfilter\\exceptiohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\globalexceptionfilter\\exceptiohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\migrations\\20260316145311_producttableupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\migrations\\20260316145311_producttableupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\dtos\\product\\createproductdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,20 +75,8 @@
       "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\dtos\\category\\createcategorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\ecommerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -79,16 +95,8 @@
       "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|solutionrelative:ecommerce\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CB1F2A84-716E-4AB8-B0D9-C7FD9CFE675D}|ECommerce\\ECommerce.csproj|c:\\users\\acer\\newrepo\\consoleapp1\\ecommerce\\ecommerce\\dtos\\auth\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -126,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -134,20 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20260316145311_ProductTableUpdate.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
-              "RelativeToolTip": "ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:53:12.036Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\Interfaces\\IProductService.cs",
               "RelativeDocumentMoniker": "ECommerce\\Services\\Interfaces\\IProductService.cs",
@@ -160,26 +155,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "ECommerce\\Controllers\\ProductsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\AuthService.cs",
+              "RelativeToolTip": "ECommerce\\Services\\AuthService.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAADkAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:50:51.025Z",
+              "WhenOpened": "2026-03-15T20:04:33.55Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Program.cs",
+              "RelativeToolTip": "ECommerce\\Program.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T19:44:50.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\CategoryService.cs",
+              "RelativeToolTip": "ECommerce\\Services\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:22:20.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\Interfaces\\ProductService.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Services\\Interfaces\\ProductService.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\Interfaces\\ProductService.cs",
-              "RelativeToolTip": "ECommerce\\Services\\Interfaces\\ProductService.cs",
-              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "ECommerce\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T14:47:05.059Z",
               "EditorCaption": ""
@@ -187,110 +208,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "CreateProductDto.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Product\\CreateProductDto.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Product\\CreateProductDto.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Product\\CreateProductDto.cs",
-              "RelativeToolTip": "ECommerce\\Dtos\\Product\\CreateProductDto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Seed\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Seed\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Seed\\DbInitializer.cs",
+              "RelativeToolTip": "ECommerce\\Seed\\DbInitializer.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:44:37.782Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Program.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Program.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Program.cs",
-              "RelativeToolTip": "ECommerce\\Program.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAAAEUAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T19:44:50.283Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductCategory.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductCategory.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Models\\ProductCategory.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductCategory.cs",
-              "RelativeToolTip": "ECommerce\\Models\\ProductCategory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T20:19:22.887Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ProductImage.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductImage.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Models\\ProductImage.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductImage.cs",
-              "RelativeToolTip": "ECommerce\\Models\\ProductImage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T20:19:01.932Z",
+              "WhenOpened": "2026-03-16T18:21:42.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Models\\Product.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Product.cs",
-              "RelativeToolTip": "ECommerce\\Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T20:15:32.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CategoryConfigurations.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Configurations\\CategoryConfigurations.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Configurations\\CategoryConfigurations.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Configurations\\CategoryConfigurations.cs",
-              "RelativeToolTip": "ECommerce\\Configurations\\CategoryConfigurations.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:15:59.081Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "ECommerce\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:25:45.448Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\CategoryService.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Services\\CategoryService.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\CategoryService.cs",
-              "RelativeToolTip": "ECommerce\\Services\\CategoryService.cs",
-              "ViewState": "AgIAAFgAAAAAAAAAAAAAAD0AAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:22:20.54Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\Interfaces\\ICategoryService.cs",
               "RelativeDocumentMoniker": "ECommerce\\Services\\Interfaces\\ICategoryService.cs",
@@ -303,59 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "CreateCategoryDto.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
-              "RelativeToolTip": "ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T14:19:58.411Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "AuthResponseDto.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
-              "RelativeToolTip": "ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:02:38.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\appsettings.json",
-              "RelativeDocumentMoniker": "ECommerce\\appsettings.json",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\appsettings.json",
-              "RelativeToolTip": "ECommerce\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-15T19:56:53.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Models\\Category.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Category.cs",
-              "RelativeToolTip": "ECommerce\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T20:18:36.965Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 6,
               "Title": "ECommerce.csproj",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\ECommerce.csproj",
               "RelativeDocumentMoniker": "ECommerce\\ECommerce.csproj",
@@ -368,7 +246,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 8,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "ECommerce\\Services\\Interfaces\\IAuthService.cs",
@@ -381,20 +259,165 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\AuthService.cs",
-              "RelativeDocumentMoniker": "ECommerce\\Services\\AuthService.cs",
-              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Services\\AuthService.cs",
-              "RelativeToolTip": "ECommerce\\Services\\AuthService.cs",
-              "ViewState": "AgIAAEUAAAAAAAAAAAA4wGEAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "ExceptioHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\GlobalExceptionFilter\\ExceptioHandler.cs",
+              "RelativeDocumentMoniker": "ECommerce\\GlobalExceptionFilter\\ExceptioHandler.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\GlobalExceptionFilter\\ExceptioHandler.cs",
+              "RelativeToolTip": "ECommerce\\GlobalExceptionFilter\\ExceptioHandler.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:04:33.55Z",
+              "WhenOpened": "2026-03-16T18:17:20.512Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 10,
+              "Title": "20260316145311_ProductTableUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
+              "RelativeToolTip": "ECommerce\\Migrations\\20260316145311_ProductTableUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:53:12.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:50:51.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CreateProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Product\\CreateProductDto.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Product\\CreateProductDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Product\\CreateProductDto.cs",
+              "RelativeToolTip": "ECommerce\\Dtos\\Product\\CreateProductDto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:44:37.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductCategory.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductCategory.cs",
+              "RelativeToolTip": "ECommerce\\Models\\ProductCategory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:19:22.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\ProductImage.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\ProductImage.cs",
+              "RelativeToolTip": "ECommerce\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:19:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Product.cs",
+              "RelativeToolTip": "ECommerce\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:15:32.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryConfigurations.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Configurations\\CategoryConfigurations.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Configurations\\CategoryConfigurations.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Configurations\\CategoryConfigurations.cs",
+              "RelativeToolTip": "ECommerce\\Configurations\\CategoryConfigurations.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:15:59.081Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "ECommerce\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:25:45.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CreateCategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
+              "RelativeToolTip": "ECommerce\\Dtos\\Category\\CreateCategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T14:19:58.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AuthResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
+              "RelativeToolTip": "ECommerce\\Dtos\\Auth\\AuthResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-15T20:02:38.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce\\appsettings.json",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\appsettings.json",
+              "RelativeToolTip": "ECommerce\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-15T19:56:53.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ECommerce\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\Category.cs",
+              "RelativeToolTip": "ECommerce\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T20:18:36.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "20260315202248_ChangeAppUser.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Migrations\\20260315202248_ChangeAppUser.cs",
               "RelativeDocumentMoniker": "ECommerce\\Migrations\\20260315202248_ChangeAppUser.cs",
@@ -402,12 +425,11 @@
               "RelativeToolTip": "ECommerce\\Migrations\\20260315202248_ChangeAppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:22:48.965Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T20:22:48.965Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "ECommerce\\Controllers\\AuthController.cs",
@@ -415,12 +437,11 @@
               "RelativeToolTip": "ECommerce\\Controllers\\AuthController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAmwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:25:52.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T20:25:52.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 25,
               "Title": "LoginDto.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Auth\\LoginDto.cs",
               "RelativeDocumentMoniker": "ECommerce\\Dtos\\Auth\\LoginDto.cs",
@@ -428,12 +449,11 @@
               "RelativeToolTip": "ECommerce\\Dtos\\Auth\\LoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:02:07.287Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T20:02:07.287Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 24,
               "Title": "RegisterDto.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Dtos\\Auth\\RegisterDto.cs",
               "RelativeDocumentMoniker": "ECommerce\\Dtos\\Auth\\RegisterDto.cs",
@@ -441,12 +461,11 @@
               "RelativeToolTip": "ECommerce\\Dtos\\Auth\\RegisterDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T20:01:18.652Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T20:01:18.652Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\appsettings.Development.json",
               "RelativeDocumentMoniker": "ECommerce\\appsettings.Development.json",
@@ -454,12 +473,11 @@
               "RelativeToolTip": "ECommerce\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-15T19:41:37.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T19:41:37.519Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 28,
               "Title": "20260315194928_Init.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Migrations\\20260315194928_Init.cs",
               "RelativeDocumentMoniker": "ECommerce\\Migrations\\20260315194928_Init.cs",
@@ -467,12 +485,11 @@
               "RelativeToolTip": "ECommerce\\Migrations\\20260315194928_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T19:49:28.8Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T19:49:28.8Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 27,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Contexts\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ECommerce\\Contexts\\AppDbContext.cs",
@@ -480,12 +497,11 @@
               "RelativeToolTip": "ECommerce\\Contexts\\AppDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAUwA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-15T19:32:54.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T19:32:54.752Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "AppUser.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Models\\AppUser.cs",
               "RelativeDocumentMoniker": "ECommerce\\Models\\AppUser.cs",
@@ -493,12 +509,11 @@
               "RelativeToolTip": "ECommerce\\Models\\AppUser.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T20:12:35.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T20:12:35.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 29,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\ACER\\NewRepo\\ConsoleApp1\\ECommerce\\ECommerce\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "ECommerce\\Common\\BaseEntity.cs",
@@ -506,8 +521,7 @@
               "RelativeToolTip": "ECommerce\\Common\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-14T20:13:44.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-14T20:13:44.107Z"
             }
           ]
         }

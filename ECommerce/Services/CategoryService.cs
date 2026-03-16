@@ -34,7 +34,7 @@ public class CategoryService:ICategoryService
             .FirstOrDefaultAsync(c => c.Id == id);
 
         if (category is null)
-            throw new Exception("Kateqoriya tapilmadi");
+            throw new KeyNotFoundException("Kateqoriya tapilmadi.");
 
         return new CategoryResponseDto
         {
@@ -49,7 +49,7 @@ public class CategoryService:ICategoryService
             .AnyAsync(c => c.Name.ToLower() == dto.Name.ToLower());
 
         if (exists)
-            throw new Exception("Bu adda kateqoriya artıq movcuddur");
+            throw new ArgumentException("Bu adda kateqoriya artiq movcuddur.");
 
         var category = new Category
         {
@@ -68,14 +68,13 @@ public class CategoryService:ICategoryService
             .FirstOrDefaultAsync(c => c.Id == id);
 
         if (category is null)
-            throw new Exception("Kateqoriya tapilmadi");
+            throw new KeyNotFoundException("Kateqoriya tapilmadi.");
 
         var exists = await _context.Categories
             .AnyAsync(c => c.Id != id && c.Name.ToLower() == dto.Name.ToLower());
 
         if (exists)
-            throw new Exception("Bu adda basqa kateqoriya artiq movcuddur");
-
+            throw new ArgumentException("Bu adda basqa kateqoriya artiq movcuddur.");
         category.Name = dto.Name;
         await _context.SaveChangesAsync();
 
@@ -89,10 +88,12 @@ public class CategoryService:ICategoryService
             .FirstOrDefaultAsync(c => c.Id == id);
 
         if (category is null)
-            throw new Exception("Kateqoriya tapilmadi");
+            throw new KeyNotFoundException("Kateqoriya tapılmadı.");
+
 
         if (category.ProductCategories.Any())
-            throw new Exception("Bu kateqoriya mehsullara baqlıdır, siline bilmez.");
+            throw new ArgumentException("Bu kateqoriya mehsullara baqlidir, siline bilmez.");
+
 
         _context.Categories.Remove(category);
         await _context.SaveChangesAsync();

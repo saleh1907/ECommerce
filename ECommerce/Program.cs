@@ -1,5 +1,7 @@
 
 using ECommerce.Contexts;
+using ECommerce.GlobalExceptionFilter;
+using ECommerce.Seed;
 using ECommerce.Services;
 using ECommerce.Services.Interfaces;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
@@ -91,7 +93,14 @@ namespace ECommerce
 
             var app = builder.Build();
 
-            
+            using (var scope = app.Services.CreateScope())
+            {
+                var context = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+                DbInitializer.SeedAdminAsync(context).Wait();
+            }
+
+
+
             if (app.Environment.IsDevelopment())
             {
                 app.UseSwagger();
@@ -99,6 +108,8 @@ namespace ECommerce
             }
 
             app.UseHttpsRedirection();
+            app.UseMiddleware<ExceptioHandler>();
+           
 
             app.UseAuthentication();
             app.UseAuthorization();
