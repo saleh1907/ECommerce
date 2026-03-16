@@ -13,4 +13,3 @@ Features:
 - Category CRUD
 - Product images
 - Global Exception Handling
-- 
